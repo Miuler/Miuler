@@ -5,6 +5,10 @@
 
 ![](https://komarev.com/ghpvc/?username=your-github-username)
 
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) Miuler](https://www.linkedin.com/in/miuler)
+
+
+
 ### Apasionado del desarrollo de software, que en un tiempo pasado fui fiel defensor de Python, convertido a Javero aunque mi corazón va por el lado de Scala, hasta que descubrí a Rust. 
 
 
